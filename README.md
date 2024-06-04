@@ -1,2 +1,2 @@
 # pestpatrol-machine-learning
-PestPatrol model using CNN model and Tensorflow framework
+PestPatrol model using CNN method and Tensorflow framework
