@@ -1,2 +1,4 @@
-# pestpatrol-machine-learning
-PestPatrol model using CNN method and Tensorflow framework
+# PestPatrol Machine Learning
+
+## Dataset
+- Import from kaggle: https://www.kaggle.com/datasets/shayanriyaz/riceleafs
