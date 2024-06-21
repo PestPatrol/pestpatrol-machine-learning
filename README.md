@@ -1,3 +1,5 @@
+![image](https://github.com/PestPatrol/pestpatrol-machine-learning/assets/89710992/95fabd66-ddf1-4148-b596-087c049fd056)
+
 # PestPatrol Machine Learning
 PestPatrol model using CNN method and Tensorflow framework
 
