@@ -31,7 +31,7 @@ PestPatrol is an Android application designed for early detection of rice plant 
 
 
 ## Project Structure
-
+```sh
 rice_leaf_disease_detection/
 ├── dataset/
 │   └── riceleafs_extracted/
@@ -39,6 +39,7 @@ rice_leaf_disease_detection/
 │   └── model.json
 └── notebooks/
     └── Rice_Leaf_Disease_Detection.ipynb
+```
 
 ## Installation
 Install Kaggle to download the dataset:
